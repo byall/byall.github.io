@@ -353,6 +353,7 @@ body {
     box-shadow: 5px 5px black;
     text-shadow: 0 0 10px blue, 0 0 10px red;
     clear: both;
+    float: left;
 }
 
 #dbackto {
